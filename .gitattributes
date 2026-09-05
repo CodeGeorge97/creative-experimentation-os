@@ -1,0 +1,20 @@
+# Text is LF in the repository and LF in the working tree, on every platform.
+* text=auto eol=lf
+
+*.json  text eol=lf
+*.jsonl text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.txt   text eol=lf
+
+*.pdf  binary
+*.mp4  binary
+*.wav  binary
+*.mp3  binary
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.webp binary
+*.sqlite3 binary
