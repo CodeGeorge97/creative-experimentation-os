@@ -1,8 +1,8 @@
 # Phase 4 — Skills Design
 
-**Status:** ACTIVE  
-**Phase:** 4  
-**Branch:** `phase-4-skills-design`  
+**Status:** ACTIVE
+**Phase:** 4
+**Branch:** `phase-4-skills-design`
 **Base freeze:** `phase-3c-complete`
 
 ---
@@ -99,8 +99,8 @@ metadata:
 
 ## L. Skill Design 1 — `product-intelligence`
 
-**Status:** PROPOSED  
-**Initial version:** `1.0.0`  
+**Status:** PROPOSED
+**Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `none`
 
 ### L.1 Role
@@ -421,8 +421,8 @@ The eventual `SKILL.md` is conformant only if:
 
 ## M. Skill Design 2 — `market-intelligence-cl`
 
-**Status:** PROPOSED  
-**Initial version:** `1.0.0`  
+**Status:** PROPOSED
+**Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `KNW-schwartz-persuasion`
 
 ### M.1 Role
@@ -864,8 +864,8 @@ The eventual `SKILL.md` is conformant only if:
 
 ## N. Skill Design 3 — `creative-strategist`
 
-**Status:** PROPOSED  
-**Initial version:** `1.0.0`  
+**Status:** PROPOSED
+**Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `KNW-schwartz-persuasion`
 
 ### N.1 Role
@@ -1444,8 +1444,8 @@ The eventual `SKILL.md` is conformant only if:
 
 ## O. Skill Design 4 — `script-engine`
 
-**Status:** PROPOSED  
-**Initial version:** `1.0.0`  
+**Status:** PROPOSED
+**Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `KNW-schwartz-persuasion,KNW-schwartz-language`
 
 ### O.1 Role
@@ -2148,7 +2148,7 @@ The eventual `SKILL.md` is conformant only if:
 
 ## P. Skill Design 5 — `compliance-reviewer`
 
-**Status:** PROPOSED  
+**Status:** PROPOSED
 **Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `KNW-schwartz-persuasion`
 
