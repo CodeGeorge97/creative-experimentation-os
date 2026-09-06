@@ -1,3 +1,17 @@
+---
+knowledge_id: KNW-schwartz-integration
+tier: DESIGN_INPUT
+source_files: []
+derivation_method: authored
+derivation_confidence: OBSERVED
+machine_verifiable: false
+human_reviewed: true
+scope: general
+retrieval_policy: excluded
+contains_claims: none
+version: 1
+created_at: "2026-09-05"
+---
 # Schwartz Integration Map
 ## How the two Schwartz knowledge layers connect to Creative Experimentation OS — Chile
 

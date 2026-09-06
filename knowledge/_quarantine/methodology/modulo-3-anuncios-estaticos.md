@@ -1,3 +1,20 @@
+---
+knowledge_id: KNW-methodology-static-ads
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"
+sections:
+  - heading: "## 3.5. [Ampliación Externa - Internet]: Estándares de Rendimiento en Meta Ads"
+    tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+---
 # Módulo 3: Creative Strategy para Anuncios de Imagen Estática (Static Ads SOP)
 
 Este módulo establece el sistema paso a paso para estructurar, redactar y diseñar briefs de imágenes estáticas de alta conversión destinadas a tráfico frío (TOF - Top of Funnel) para el nicho de Síndrome de Ovario Poliquístico (SOP) y salud hormonal. El diseño estático en respuesta directa no es una cuestión de "estética artística", sino un arma psicológica diseñada para detener el scroll, generar un cambio emocional y forzar la acción [13, 15, 19].

@@ -1,3 +1,20 @@
+---
+knowledge_id: KNW-methodology-infrastructure-tools
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"
+sections:
+  - heading: "## 5.4. [Ampliación Externa - Internet]: Herramientas de Automatización Creativa y KPIs Operativos"
+    tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+---
 # Módulo 5: Infraestructura Técnica, Hojas de Ruta y Herramientas (Tools & Execution)
 
 Este módulo aborda la fase de ejecución, sistematización, testeo e infraestructura competitiva necesaria para llevar las hipótesis creativas al mercado. Aquí se consolida la metodología de crecimiento para planificar, validar científicamente las variables creativas en Meta Ads, capitalizar la prueba social acumulada y automatizar la retención mediante embudos de ofertas [113, 114, 115].

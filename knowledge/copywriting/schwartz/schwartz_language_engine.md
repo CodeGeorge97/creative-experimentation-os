@@ -1,3 +1,18 @@
+---
+knowledge_id: KNW-schwartz-language
+tier: DERIVED_VISUAL_REVIEW
+source_files:
+  - sources/books/brilliance-breakthrough.pdf
+derivation_method: visual_review
+derivation_confidence: OBSERVED
+machine_verifiable: false
+human_reviewed: true
+scope: general
+retrieval_policy: open
+contains_claims: none
+version: 1
+created_at: "2026-09-05"
+---
 # Schwartz Language Engine
 ## Technical extraction of *The Brilliance Breakthrough* for spoken ad copy
 
