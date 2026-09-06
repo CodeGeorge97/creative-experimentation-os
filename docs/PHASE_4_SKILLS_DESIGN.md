@@ -2149,7 +2149,7 @@ The eventual `SKILL.md` is conformant only if:
 ## P. Skill Design 5 — `compliance-reviewer`
 
 **Status:** PROPOSED  
-**Initial version:** `1.0.0`  
+**Initial version:** `1.0.0`
 **Runtime knowledge declaration:** `KNW-schwartz-persuasion`
 
 ### P.1 Role
