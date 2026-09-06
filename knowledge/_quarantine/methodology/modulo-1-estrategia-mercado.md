@@ -1,3 +1,20 @@
+---
+knowledge_id: KNW-methodology-market-strategy
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"
+sections:
+  - heading: "## 1.5. *[Ampliación Externa - Internet]*: Análisis de Mercado en el Sector de Salud y Bienestar Femenino (FemTech y Suplementación)"
+    tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+---
 # Módulo 1: Fundamentos de Investigación y Estrategia de Mercado (Evolve Core 3)
 
 Este módulo establece los cimientos estratégicos indispensables para estructurar anuncios de respuesta directa con alta conversión en el nicho de SOP (Síndrome de Ovario Poliquístico) y salud hormonal femenina. La investigación previa del mercado es la que determina la efectividad del mensaje creativo, evitando el desperdicio presupuestario al alinear con precisión matemática la psicología de la audiencia con nuestra oferta publicitaria.

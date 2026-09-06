@@ -1,0 +1,14 @@
+knowledge_id: KNW-creative-scaling-social-proof
+payload_path: "knowledge/_quarantine/methodology/Escalamiento Creativo y Prueba Social en Meta Ads.pdf"
+payload_sha256: "sha256:68ad8ea56b4dcf63a3b1ba90cde95f693c8e5ebef2785b5fac880f8849d66819"
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"

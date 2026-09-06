@@ -1,0 +1,14 @@
+knowledge_id: KNW-evolve-creative-testing
+payload_path: "knowledge/_quarantine/methodology/Metodología Evolve para Testeo Creativo en Meta Ads.pdf"
+payload_sha256: "sha256:37335da23682e05f64163ebfebe77b2862ff6d3c0206283b69afe766d57379d9"
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"

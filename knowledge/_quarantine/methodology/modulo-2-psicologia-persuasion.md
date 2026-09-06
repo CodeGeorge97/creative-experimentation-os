@@ -1,3 +1,20 @@
+---
+knowledge_id: KNW-methodology-psychology-persuasion
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"
+sections:
+  - heading: "## 2.4. *[Ampliación Externa - Internet]*: Psicología del Consumidor en Meta Ads"
+    tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+---
 # Módulo 2: Psicología del Consumidor y Modelos de Persuasión Aplicados
 
 Este módulo desglosa los marcos teóricos de la psicología cognitiva, del comportamiento y de la persuasión directa que rigen la estrategia de respuesta directa para el avatar de Síndrome de Ovario Poliquístico (SOP/PCOS). Cada sección conecta la teoría académica con la ejecución práctica en la redacción de anuncios y la dirección de creadores de contenido (UGC).

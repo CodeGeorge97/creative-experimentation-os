@@ -1,3 +1,18 @@
+---
+knowledge_id: KNW-schwartz-persuasion
+tier: DERIVED_VERIFIABLE
+source_files:
+  - sources/books/breakthrough-advertising.pdf
+derivation_method: parsed_text
+derivation_confidence: OBSERVED
+machine_verifiable: true
+human_reviewed: true
+scope: general
+retrieval_policy: open
+contains_claims: none
+version: 1
+created_at: "2026-09-05"
+---
 # Schwartz Persuasion Framework
 ## Technical knowledge extraction for Creative Experimentation OS — Chile
 

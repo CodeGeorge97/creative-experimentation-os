@@ -1,3 +1,20 @@
+---
+knowledge_id: KNW-methodology-ugc-vsl-strategy
+tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+source_files: []
+derivation_method: probable_llm_derived
+derivation_confidence: INFERRED
+machine_verifiable: false
+human_reviewed: true
+scope: niche:pcos-hair-loss-supplement-cl
+retrieval_policy: research_only
+contains_claims: health_claims
+version: 1
+created_at: "2026-09-05"
+sections:
+  - heading: "## 4.4. *[Ampliación Externa - Internet]*: KPIs de Video en Meta Ads"
+    tier: CONVERSATIONAL_DERIVED_UNVERIFIABLE
+---
 # Módulo 4: Estrategia de Contenido UGC y Guion de Video (UGC VSL Strategy)
 
 Este módulo desarrolla de forma práctica y operativa la metodología de creación de contenido generado por el usuario (UGC) en formato de video vertical corto (especialmente orientado a Meta Ads, TikTok y Reels). Se fundamenta en la psicología de persuasión de respuesta directa aplicada a la salud hormonal femenina y, de manera específica, al tratamiento de la pérdida de cabello ocasionada por el Síndrome de Ovario Poliquístico (SOP) [34, 45, 62].
