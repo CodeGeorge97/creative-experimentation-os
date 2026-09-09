@@ -1311,12 +1311,6 @@ Schema-invalid output must not be persisted as canonical state.
 
 Validated model output may proceed only to the downstream boundary declared by the runtime command.
 
-## 16. Model Invocation Contract
-
-A model invocation is an explicit provider-neutral reasoning request executed through the runtime model boundary.
-
-Every invocation must be independently inspectable and reproducible from its bound inputs.
-
 ### 16.5 Invocation Assembly
 
 A model invocation is assembled from distinct runtime inputs rather than one undifferentiated prompt body.
