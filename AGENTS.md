@@ -53,3 +53,14 @@
 - Do not broaden scope beyond the requested stage.
 - Report files changed, tests run, failures found, and final git status.
 - Stop on contract ambiguity, destructive risk, or frozen-boundary conflict.
+
+<!-- bmad:context -->
+<!-- Verified 2026-09-10 against fbc050c43701489dc74ef2200ade9bbfa0f2eaac. Managed by bmad-project-context; edits inside this block are replaced on refresh. Keep anything you want preserved outside the markers. -->
+
+## BMAD policy
+
+- Preserve all instructions above this block; BMAD maintenance must not rewrite, relocate, or remove them without explicit human approval.
+- Keep `docs/PHASE_5_RUNTIME_DESIGN.md` frozen alongside the Phase 1–4 documents protected above; do not modify it during BMAD setup or maintenance.
+- Keep `PRE_FLIGHT_AUDIT.md` at the repository root unchanged; it is an immutable historical snapshot.
+
+<!-- /bmad:context -->
